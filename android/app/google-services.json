@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "714534594454",
+    "firebase_url": "https://magic-the-catalog.firebaseio.com",
+    "project_id": "magic-the-catalog",
+    "storage_bucket": "magic-the-catalog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714534594454:android:1c249002579f066b",
+        "android_client_info": {
+          "package_name": "is.huntt.magic.the.catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714534594454-17smiqe1sbdnn8n15c85o9d5skj205u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfH4P3Cni-IsU9zO3jUXvCYzSWsQ-Vp58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
